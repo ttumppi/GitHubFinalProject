@@ -26,7 +26,7 @@ Here's some words about the book _One Hundred Years..._.
 
 ###  Links
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
@@ -39,7 +39,7 @@ Well, do I have [the website for you][another fun place]!
 
 [a fun place]: https://www.zombo.com
 
-[another fun place]: www.stumbleupon.com
+[another fun place]: https://www.stumbleupon.com
 
 ### Images
 
